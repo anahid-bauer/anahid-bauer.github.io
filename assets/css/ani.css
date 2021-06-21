@@ -61,7 +61,7 @@ a{
 
 .nav > li > a:hover,
 .nav > li > a:focus {
-  text-decoration: none;
+  text-decoration: #E87722;
   background-color: #E87722;
 }
 
@@ -89,7 +89,7 @@ a{
 }
 
 .navbar .navbar-nav > li > a:hover {
-  color: #000;
+  color: #E87722;
 }
 
 .collapse, .navbar-collapse{ color: #000; }

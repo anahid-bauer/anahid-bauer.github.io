@@ -6,17 +6,17 @@ layout: secondary_pages
 
 #### University of Illinois at Urbana-Champaign, USA
 - **Head Teaching Assistant for Intermediate Microeconomics (Econ 302)**<br>
-	 Department of Economics<br>
-	 Spring and Fall 2019, Spring 2020 (online)
+	 Department of Economics, Spring and Fall 2019, Spring 2020 (online)<br>
+	 
 - **Teaching Assistant for Program Evaluation in Developing Economies (Econ 451)**<br>
-	 Department of Economics<br>
-	 Spring 2021
+	 Department of Economics, Spring 2021<br>
+
 - **Teaching Assistant for Intermediate Microeconomics (Econ 302)**<br>
-	 Department of Economics<br>
-	 Fall 2020 (online), Spring 2018 
+	 Department of Economics, Fall 2020 (online), Spring 2018<br>
+	  
 - **Teaching Assistant for Principles of Microeconomics (Econ 102)**<br>
-	 Department of Economics<br>
-	 Fall and Spring 2016-2017 
+	 Department of Economics, Fall and Spring 2016-2017<br>
+	  
 
 #### Universidad de San Andres, Argentina
 - **Teaching Assistant** for Industrial Organization, Microeconomics I, Thesis Seminar<br>

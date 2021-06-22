@@ -19,12 +19,13 @@ layout: secondary_pages
 	 Fall and Spring 2016-2017 
 
 #### Universidad de San Andres, Argentina
-- **Teaching Assistant* for Industrial Organization, Microeconomics I, Thesis Seminar**<br>
+- **Teaching Assistant** for Industrial Organization, Microeconomics I, Thesis Seminar**<br>
 	 Department of Economics, 2014
 
 
 #### University of Buenos Aires, Argentina
-- **Volunteer Teaching Assistant* for Microeconomics I, Microeconomics I (for economist and actuaries), Macroeconomics and Political Economy **<br>
+- **Volunteer Teaching Assistant**
+ for Microeconomics I, Microeconomics I (for economist and actuaries), Macroeconomics and Political Economy**<br>
 	Department of Economics, 2011-2012
 	
 

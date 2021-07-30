@@ -5,7 +5,7 @@ layout: default
 
 I'm an PhD Candidate at the [Economics Department at University of Illinois at Urbana Champaign](https://economics.illinois.edu/). 
 
-My primary interests are in Labor economics, Industrial Organization and Economics of Innovation. I'm also interested in Applied Econometrics.
+My primary interests are in Labor Economics, Industrial Organization and Economics of Innovation. I'm also interested in Applied Econometrics.
 
 <br>
 

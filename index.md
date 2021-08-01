@@ -3,7 +3,7 @@ layout: default
 ---
 
 
-I'm an PhD Candidate at the [Economics Department at University of Illinois at Urbana Champaign](https://economics.illinois.edu/). 
+I'm an PhD Candidate at the <a class="a1" href="https://economics.illinois.edu/" target="_blank">Economics Department at University of Illinois at Urbana-Champaign.</a> 
 
 My primary interests are in Labor Economics, Industrial Organization and Economics of Innovation. I'm also interested in Applied Econometrics.
 

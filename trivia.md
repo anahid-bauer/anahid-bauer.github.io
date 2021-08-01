@@ -8,7 +8,7 @@ layout: secondary_pages
 - **I'm glad to have found awesome teammates**<br>
 	
 
-#### I am fascinated by challenges, especially those that resemble puzzles/jigzaw puzzles
+#### I love challenges, especially those that resemble puzzles/jigzaw puzzles
 - **Here are some pictures of my collection**<br>
 	
  
@@ -20,7 +20,7 @@ layout: secondary_pages
 - **I'm an active member at UAVE crossfit**<br>
  
 - **I practice <a href="https://www.positiveintelligence.com/" target="_blank">Positive Intelligence</a> ,  <a href="https://www.headspace.com/meditation-101/what-is-meditation" target="_blank">Meditation</a>  and apply my Rescue Toolkit**<br>
-<img src="/assets/images/Rescue_toolkit_1.jpg" alt="Rescue Toolkit"  class="resize" align="middle"/>	
+<img src="/assets/images/Rescue_toolkit_1.jpg"  class="displayed" width="300" height="400"/>	
 
 
 

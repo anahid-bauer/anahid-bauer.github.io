@@ -19,8 +19,8 @@ layout: secondary_pages
 #### I value taking care of my physical and emotional well-being
 - **I'm an active member at UAVE crossfit**<br>
  
-- **I practice Positive Intelligence, meditation and apply my Rescue Toolkit**<br>
-	
+- **I practice <a href="https://www.positiveintelligence.com/" target="_blank">Positive Intelligence</a> ,  <a href="https://www.headspace.com/meditation-101/what-is-meditation" target="_blank">Meditation</a>  and apply my Rescue Toolkit**<br>
+<img src="/assets/images/Rescue_toolkit_1.jpg" alt="Rescue Toolkit"  class="resize" align="middle"/>	
 
 
 

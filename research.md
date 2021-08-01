@@ -6,7 +6,7 @@ layout: secondary_pages
 
 
 
-* **The Effects of E-commerce on Local Labor Markets** *([pdf](/assets/Anahid_Bauer_JMP.pdf))* <!--- [[SSRN]](https://ssrn.com/abstract=3020332) -->
+* **The Effects of E-commerce on Local Labor Markets** <!---*([pdf](/assets/Anahid_Bauer_JMP.pdf))*  [[SSRN]](https://ssrn.com/abstract=3020332) -->
 	*(Job Market Paper)*
 	
 	**Abstract**:
@@ -14,7 +14,7 @@ layout: secondary_pages
 
 
 
-* **The Tribal Digital Divide: Extent and Explanations** *([pdf](/assets/Broadband_gap.pdf))* <!--- [[SSRN]](https://ssrn.com/abstract=3020332) -->
+* **The Tribal Digital Divide: Extent and Explanations** <!---*([pdf](/assets/Broadband_gap.pdf))*  [[SSRN]](https://ssrn.com/abstract=3020332) -->
 	*(with [Donna L. Feir](https://www.donnafeir.com/) and [Matthew T. Gregg](https://sites.google.com/prod/view/mattgregg))*
 	
 	**Abstract**:
@@ -22,7 +22,7 @@ layout: secondary_pages
 
 
 
-* **Group Dynamics and Party Switching: Evidence from Argentina’s Roll Calls** *([pdf](/assets/3rdyearpaper.pdf))* <!--- [[SSRN]](https://ssrn.com/abstract=3020332) -->
+* **Group Dynamics and Party Switching: Evidence from Argentina’s Roll Calls** <!---*([pdf](/assets/3rdyearpaper.pdf))* [[SSRN]](https://ssrn.com/abstract=3020332) -->
 	
 	
 	**Abstract**:
@@ -36,20 +36,20 @@ layout: secondary_pages
 
 
 
-* **Establishment’s Responsiveness to Shocks: the Case of the Great Recession** *([pdf](/assets/proposal.pdf))* <!--- [[SSRN]](https://ssrn.com/abstract=3020332) -->
+* **Establishment’s Responsiveness to Shocks: the Case of the Great Recession** <!---*([pdf](/assets/proposal.pdf))*  [[SSRN]](https://ssrn.com/abstract=3020332) -->
 	*(with [Eliza Forsythe](https://elizaforsythe.web.illinois.edu/))*
 	
 	
 
 
-* **Effects of broadband access on credit invisibility and financial access in Indian Country** *([pdf](/assets/proposal.pdf))* <!--- [[SSRN]](https://ssrn.com/abstract=3020332) -->
+* **Effects of broadband access on credit invisibility and financial access in Indian Country** <!---*([pdf](/assets/proposal.pdf))* [[SSRN]](https://ssrn.com/abstract=3020332) -->
 *(with [Donna L. Feir](https://www.donnafeir.com/) and [Matthew T. Gregg](https://sites.google.com/prod/view/mattgregg))*
 	
 	**Abstract**:
 	More than 10% of US adults do not have a credit record at one of the three nationwide credit reporting companies (Brevoort, et al 2015). They are considered “credit invisible”. Credit invisibility is more common among minority and rural populations who tend to be more financially vulnerable and may have less access to traditional forms of credit. There is evidence that access to high-speed broadband internet is associated with reduced credit invisibility (Brevoort, et al 2018). The purpose of this work is to evaluate the effects of broadband deployment on financial access and credit invisibility, with special focus on Indian Country. We leverage the roll-out of several programs to expand broadband provision among rural areas and tribal lands that were part of the American Recovery and Reinvestment Act of 2009, through several agencies (RUS, NTIA and FCC) to shed light on whether efforts to increase access to broadband also increase access to credit and engagement in financial markets.
 
 
-* **Understanding the search: Best practices for the use of Google Trends** *([pdf](/assets/GTrends.pdf))* <!--- [[SSRN]](https://ssrn.com/abstract=3020332) -->
+* **Understanding the search: Best practices for the use of Google Trends** <!---*([pdf](/assets/GTrends.pdf))*  [[SSRN]](https://ssrn.com/abstract=3020332) -->
 
 
 <br>

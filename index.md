@@ -5,15 +5,15 @@ layout: default
 
 I'm an PhD Candidate at the <a class="a1" href="https://economics.illinois.edu/" target="_blank">Economics Department at University of Illinois at Urbana-Champaign.</a> 
 
+<br>
 My primary interests are in Labor Economics, Industrial Organization and Economics of Innovation. I'm also interested in Applied Econometrics.
 
 <br>
 
-You can find my [CV here](/assets/CV_Anahid_Bauer.pdf).
-
+You can find my <a href="/assets/CV_Anahid_Bauer.pdf" target="_blank">CV here.</a> 
 <br>
 
-If you want to talk to me you can contact me [here](abauer11@illinois.edu).
+If you want to talk to me you can contact me <a href="mailto:abauer11@illinois.edu">here.</a>
 
 <br>
 <br>

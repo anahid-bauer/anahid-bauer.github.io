@@ -6,7 +6,7 @@ layout: secondary_pages
 
 #### Teaching
 	 
-- **5 Ways to Get Better at Asking for Help at Econ451**<br>
+- **[5 Ways to Get Better at Asking for Help at Econ451](/assets/Get_help.pdf)**<br>
 	
 
 - **Lessons on the Lagrange Multiplier for Econ 302**<br>

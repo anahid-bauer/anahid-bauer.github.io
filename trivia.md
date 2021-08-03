@@ -4,7 +4,7 @@ layout: secondary_pages
 
 ## Trivia
 
-#### I enjoy coordinating, directing and working as a team, particulary in Escape Rooms
+#### I enjoy coordinating, leading and working as a team, particulary in Escape Rooms
 - **I'm glad to have found awesome teammates**<br>
 	
 

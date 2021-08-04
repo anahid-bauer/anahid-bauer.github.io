@@ -7,8 +7,8 @@ layout: secondary_pages
 <div class="row">
   <div class="col-sm-4"><img src="/assets/images/Rescue_toolkit_1.jpg"  
         class="displayed" width=200 height=300 border=0 /></div>
-  <div class="col-sm-4">#### I enjoy coordinating, leading and working as a team, particulary in Escape Rooms
-- **I'm glad to have found awesome teammates**<br></div>
+  <div class="col-sm-4"> <h4 class="tagline"> I enjoy coordinating, leading and working as a team, particulary in Escape Rooms </h4><br>
+I'm glad to have found awesome teammates<br> </div>
 </div>
 
 	

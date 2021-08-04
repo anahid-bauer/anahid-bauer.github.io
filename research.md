@@ -14,7 +14,7 @@ layout: secondary_pages
 
 
 
-* **The Tribal Digital Divide: Extent and Explanations** <!---*([pdf](/assets/Broadband_gap.pdf))*  [[SSRN]](https://ssrn.com/abstract=3020332) -->
+* **The Tribal Digital Divide: Extent and Explanations** *([pdf](https://www.minneapolisfed.org/research/cicd-working-paper-series/the-tribal-digital-divide-extent-and-explanations))*  <!---[[SSRN]](https://ssrn.com/abstract=3020332) -->
 	*(with [Donna L. Feir](https://www.donnafeir.com/) and [Matthew T. Gregg](https://sites.google.com/prod/view/mattgregg))*
 	
 	**Abstract**:

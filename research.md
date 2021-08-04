@@ -14,7 +14,7 @@ layout: secondary_pages
 
 
 
-* **The Tribal Digital Divide: Extent and Explanations** *([pdf](https://www.minneapolisfed.org/research/cicd-working-paper-series/the-tribal-digital-divide-extent-and-explanations))*  <!---[[SSRN]](https://ssrn.com/abstract=3020332) -->
+* **The Tribal Digital Divide: Extent and Explanations** *([CICD Working Paper](https://www.minneapolisfed.org/research/cicd-working-paper-series/the-tribal-digital-divide-extent-and-explanations))*  <!---[[SSRN]](https://ssrn.com/abstract=3020332) -->
 	*(with [Donna L. Feir](https://www.donnafeir.com/) and [Matthew T. Gregg](https://sites.google.com/prod/view/mattgregg))*
 	
 	**Abstract**:
@@ -22,7 +22,7 @@ layout: secondary_pages
 
 
 
-* **Group Dynamics and Party Switching: Evidence from Argentina’s Roll Calls** <!---*([pdf](/assets/3rdyearpaper.pdf))* [[SSRN]](https://ssrn.com/abstract=3020332) -->
+* **Group Dynamics and Party Switching: Evidence from Argentina’s Roll Calls** *([pdf](/assets/Bauer_Group_dynamics_and_party_switching.pdf))* <!---[[SSRN]](https://ssrn.com/abstract=3020332) -->
 	
 	
 	**Abstract**:

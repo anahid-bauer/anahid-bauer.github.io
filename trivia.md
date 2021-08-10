@@ -7,7 +7,7 @@ layout: secondary_pages
 <div class="row">
     <div class="col-sm-6"> <h4 class="tagline"> I enjoy coordinating, leading and working as a team, particulary in Escape Rooms </h4><br>
 I'm glad to have found awesome teammates<br> </div>
-<div class="col-sm-3"><img src="/assets/images/Teams_escape.jpg"  
+<div class="col-sm-3"><img src="/assets/images/escape.jpeg"  
         class="displayed" width=200 height=300 border=0 /></div>
 </div>
 

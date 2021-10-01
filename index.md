@@ -29,11 +29,6 @@ University of Illinois at Urbana-Champaign
 Urbana, IL 61801 USA
 
 
-<i class="fa fa-envelope"></i> abauer11 (at) illinois.edu <br>
-<i class="fa fa-envelope"></i> anibauer (at) gmail.com
-
-
-
 <br>
 <br>
 

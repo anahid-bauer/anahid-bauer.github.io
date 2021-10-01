@@ -6,7 +6,7 @@ layout: default
 I'm an PhD Candidate at the <a class="a1" href="https://economics.illinois.edu/" target="_blank">Economics Department at University of Illinois at Urbana-Champaign.</a> 
 
 <br>
-My primary interests are in Labor Economics, Industrial Organization and Economics of Innovation. I'm also interested in Applied Econometrics.
+I'm an applied economist specialized in Digital Disruption. My primary interests are Labor Economics, Industrial Organization and Economics of Innovation. 
 
 <br>
 

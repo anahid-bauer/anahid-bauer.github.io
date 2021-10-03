@@ -4,7 +4,7 @@ body {
   font-family: 'Roboto', sans-serif;
   color: #000;
   background: #fff;
-  font-size: 30px;
+  font-size: 20px;
   padding: 50px;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
@@ -25,7 +25,7 @@ h2, h4{
 }
 
 .a1 {
-  color: #000;
+  color: #E87722;
 }
 
 a{

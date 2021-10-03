@@ -30,7 +30,7 @@ Here are some pictures of my collection<br> </div>
 - **I'm an active member at UAVE crossfit**<br>
  
 - **I practice <a href="https://www.positiveintelligence.com/" target="_blank">Positive Intelligence</a> and  <a href="https://www.headspace.com/meditation-101/what-is-meditation" target="_blank">Meditation.</a>**<br>
-<img src="/assets/images/fall_final.jpg" class="displayed" align="middle" width="400" height="500" /> <br>	
+<img src="/assets/images/fall_final.jpg" class="displayed" align="middle" width="300" height="400" /> <br>	
 
 
 

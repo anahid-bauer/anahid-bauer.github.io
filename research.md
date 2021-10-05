@@ -10,9 +10,8 @@ layout: secondary_pages
 	*(Job Market Paper)*
 	
 	<details>
-  <summary>**Abstract**</summary>
-	In the last two decades, the retail sector has experienced several changes: a sharp decline in the number of brick-and-mortar establishments, the entrance of online retailers, and the expansion of e-commerce. In this paper, I use data from County Business Patterns and the Current Population Survey to study the effects of e-commerce as the digital disruption in the retail sector. I exploit the variation in the enactment of state legislation, known as Amazon Tax, to measure the effect of reducing the price advantage of out-of-state online retail on local labor markets. Through an event study difference-in-difference approach, I find robust evidence that the enactment of Amazon tax increases both the ratio of employment to the working-age population as well as establishments to the population at the county level. 
-</details>
+  <summary> **See abstract here** </summary>
+	In the last two decades, the retail sector has experienced several changes: a sharp decline in the number of brick-and-mortar establishments, the entrance of online retailers, and the expansion of e-commerce. In this paper, I use data from County Business Patterns and the Current Population Survey to study the effects of e-commerce as the digital disruption in the retail sector. I exploit the variation in the enactment of state legislation, known as Amazon Tax, to measure the effect of reducing the price advantage of out-of-state online retail on local labor markets. Through an event study difference-in-difference approach, I find robust evidence that the enactment of Amazon tax increases both the ratio of employment to the working-age population as well as establishments to the population at the county level.</details>
 
 
 * **The Tribal Digital Divide: Extent and Explanations** *([CICD Working Paper](https://www.minneapolisfed.org/research/cicd-working-paper-series/the-tribal-digital-divide-extent-and-explanations))*  <!---[[SSRN]](https://ssrn.com/abstract=3020332) -->

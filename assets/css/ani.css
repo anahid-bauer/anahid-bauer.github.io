@@ -102,7 +102,23 @@ a{
     opacity: 0.8;
 }
 
+<Collapsible
+trigger={
 
+REFINE SELECTION
+}
+open
+>
+.Collapsible__trigger:after {
+font-family: 'Font Awesome\ 5 Free';
+content: "\f107" !important;
+font-weight: 900;
+position: absolute;
+right: 10px;
+top: 10px;
+display: block;
+transition: transform 300ms;
+}
 
 /* 404 Page Styles */
 

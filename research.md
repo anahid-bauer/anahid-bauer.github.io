@@ -6,7 +6,7 @@ layout: secondary_pages
 
 
 
-* **The Effects of E-commerce on Local Labor Markets** <!---*([pdf](/assets/Bauer_JMP.pdf))*  [[SSRN]](https://ssrn.com/abstract=3020332) -->
+* **The Effects of E-commerce on Local Labor Markets** *([pdf](/assets/Bauer_JMP.pdf))* <!--- [[SSRN]](https://ssrn.com/abstract=3020332) -->
 	*(Job Market Paper)*
 	
 	<details>

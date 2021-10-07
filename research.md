@@ -6,11 +6,11 @@ layout: secondary_pages
 
 
 
-* **The Effects of E-commerce on Local Labor Markets** *([pdf](/assets/Bauer_JMP.pdf))* <!--- [[SSRN]](https://ssrn.com/abstract=3020332) -->
-	*(Job Market Paper)*
+* **The Effects of E-commerce on Local Labor Markets** <a href="/assets/Bauer_JMP.pdf" target="_blank">*(Job Market Paper)*</a> <!--- [[SSRN]](https://ssrn.com/abstract=3020332) -->
+	
 	
 	<details>
-  <summary> Abstract (click here) </summary><p>
+  <summary><span class='icon-right'></span> Abstract (click here) </summary><p>
 	In the last two decades, the retail sector has experienced several changes: a sharp decline in the number of brick-and-mortar establishments, the entrance of online retailers, and the expansion of e-commerce. In this paper, I use data from County Business Patterns and the Current Population Survey to study the effects of e-commerce as the digital disruption in the retail sector. I exploit the variation in the enactment of state legislation, known as Amazon Tax, to measure the effect of reducing the price advantage of out-of-state online retail on local labor markets. Through an event study difference-in-difference approach, I find robust evidence that the enactment of Amazon tax increases both the ratio of employment to the working-age population as well as establishments to the population at the county level.</p></details>
 
 

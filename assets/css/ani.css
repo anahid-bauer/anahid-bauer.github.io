@@ -225,5 +225,10 @@ img.resize{
    border-left-color: #000;
 }
 
-
+.icon-right:before {
+    content: "\25B6";
+}
+.icon-right:after {
+    content: "\25BC";
+}
 

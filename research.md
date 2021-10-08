@@ -16,7 +16,7 @@ layout: secondary_pages
 <br>
 <br>
 * **The Tribal Digital Divide: Extent and Explanations** <a href="https://www.minneapolisfed.org/research/cicd-working-paper-series/the-tribal-digital-divide-extent-and-explanations" target="_blank">*(CICD Working Paper)*</a>  <!---[[SSRN]](https://ssrn.com/abstract=3020332) -->
-	*(with <a href="https://www.donnafeir.com/" target="_blank">Donna L. Feir</a> and <a href="https://sites.google.com/prod/view/mattgregg" target="_blank">Matthew T. Gregg)*
+	(with <a href="https://www.donnafeir.com/" target="_blank">Donna L. Feir</a> and <a href="https://sites.google.com/prod/view/mattgregg" target="_blank">Matthew T. Gregg)
 	
 	<details>
   <summary><span class='icon-right'></span>Abstract </summary><p>
@@ -45,7 +45,7 @@ layout: secondary_pages
 
 
 * **Effects of broadband access on credit invisibility and financial access in Indian Country** <!---*([pdf](/assets/proposal.pdf))* [[SSRN]](https://ssrn.com/abstract=3020332) -->
-*(with <a href="https://www.donnafeir.com/" target="_blank">Donna L. Feir</a> and <a href="https://sites.google.com/prod/view/mattgregg" target="_blank">Matthew T. Gregg)*
+(with <a href="https://www.donnafeir.com/" target="_blank">Donna L. Feir</a> and <a href="https://sites.google.com/prod/view/mattgregg" target="_blank">Matthew T. Gregg)
 	
 	<details>
   <summary><span class='icon-right'></span>Abstract </summary><p>

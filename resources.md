@@ -12,7 +12,7 @@ layout: secondary_pages
 - **<a href="/assets/LagrangeMultiplier.pdf" target="_blank">Lessons on the Lagrange Multiplier for Intermediate Microeconomics</a>**<br>
 	 
 	  
-- **Fun questions for exams for Intermediate Microeconomics**<br>
+- **<a href="/assets/Fun_questions_302.pdf" target="_blank">Fun questions for exams for Intermediate Microeconomics</a>**<br>
 	
 	  
 

@@ -3,7 +3,7 @@ layout: default
 ---
 
 
-I'm an PhD Candidate at the <a class="a1" href="https://economics.illinois.edu/" target="_blank">Economics Department at University of Illinois at Urbana-Champaign.</a> 
+I'm an PhD Candidate at the <a class="a1" href="https://economics.illinois.edu/" target="_blank">Economics Department at University of Illinois Urbana-Champaign.</a> 
 
 <br>
 I'm an applied economist. My primary interests are Labor Economics, Industrial Organization and Economics of Innovation. 
@@ -22,7 +22,7 @@ Contact Info:
 
 <i class="fa fa-home"></i>  Department of Economics
 
-University of Illinois at Urbana-Champaign
+University of Illinois Urbana-Champaign
 
 214 David Kinley Hall  - 1407 West Gregory Drive
 

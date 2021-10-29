@@ -4,7 +4,7 @@ layout: secondary_pages
 
 ## Teaching
 
-#### University of Illinois at Urbana-Champaign, USA
+#### University of Illinois Urbana-Champaign, USA
 - **Head Teaching Assistant for Intermediate Microeconomics (Econ 302)**<br>
 	 Department of Economics, Spring and Fall 2019, Spring 2020 (online)<br>
 	 

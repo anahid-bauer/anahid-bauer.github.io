@@ -6,7 +6,7 @@ layout: secondary_pages
 
 
 
-* **The Effects of E-commerce on Local Labor Markets** <a href="/assets/Bauer_JMP.pdf" target="_blank">*(Job Market Paper)*</a> <!--- [[SSRN]](https://ssrn.com/abstract=3020332) -->
+* **Effects of E-commerce on Local Labor Markets** <a href="/assets/Bauer_JMP.pdf" target="_blank">*(Job Market Paper)*</a> <!--- [[SSRN]](https://ssrn.com/abstract=3020332) -->
 	
 	
 <!---	<details>
@@ -21,7 +21,8 @@ How has the expansion of e-commerce over the past decade affected labor markets?
 	
 	<details>
   <summary><span class='icon-right'></span>Abstract </summary><p>
-	In this paper, we use three recently released nationwide data sets to establish the current state of the tribal digital divide. Toward that end, we develop an empirical approach to use geographies such as census block groups and ZCTAs to study the tribal digital inequities by comparing households on tribal land to neighboring households on non-tribal land. We find the tribal digital gap takes several forms. Households on tribal land are less likely to have internet at home and, when internet is available, have slower download and upload speeds on both fixed and mobile devices and more expensive basic broadband plans. We also find that, across many internet-related outcomes, traditional factors that drive the cost of broadband deployment -- low population density, lower incomes and lack of complementary infrastructure -- cannot account for the large differences in tribal broadband.</p></details>
+We document systematic differences in connection speeds, prices for basic broadband service, and home internet access between American Indian Reservations and neighboring areas. Consistent with past studies, we find large raw tribal gaps in these broadband outcomes. Regression techniques and Oster (2019)'s method reveal that traditional cost factors, similar to those used in FCC's Connect American Cost Model, fully explain the price gap but explain only a fraction of the tribal gaps in access and connection speeds.  Income differences are strong predictors on internet access but do not affect the tribal gap in connectivity. We conclude with a discussion of the factors specific to Indian County that might drive the unexplained gap in access and connectivity.
+</p></details>
 
 <br>
 <br>

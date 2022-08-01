@@ -2,6 +2,18 @@
 layout: secondary_pages
 ---
 
+## Published Papers
+
+* **The Tribal Digital Divide: Extent and Explanations** <a href="https://authors.elsevier.com/c/1fGcl16AgYEnw9" target="_blank">*(Telecommunications Policy)*</a> <a href="https://www.minneapolisfed.org/research/cicd-working-paper-series/the-tribal-digital-divide-extent-and-explanations" target="_blank">*(CICD Working Paper version)*</a>  <!---[[SSRN]](https://ssrn.com/abstract=3020332) -->
+	(with <a href="https://www.donnafeir.com/" target="_blank">Donn. L. Feir</a> and <a href="https://sites.google.com/prod/view/mattgregg" target="_blank">Matthew T. Gregg)
+	
+	<details>
+  <summary><span class='icon-right'></span>Abstract </summary><p>
+We document systematic differences in connection speeds, prices for basic broadband service, and home internet access between American Indian Reservations and neighboring areas. Consistent with past studies, we find large raw tribal gaps in these broadband outcomes. Regression techniques and Oster (2019)'s method reveal that traditional cost factors, similar to those used in FCC's Connect American Cost Model, fully explain the price gap but explain only a fraction of the tribal gaps in access and connection speeds.  Income differences are strong predictors on internet access but do not affect the tribal gap in connectivity. We conclude with a discussion of the factors specific to Indian County that might drive the unexplained gap in access and connectivity.</p></details>
+
+<br>
+<br>
+
 ## Working Papers
 
 
@@ -16,15 +28,7 @@ How has the expansion of e-commerce over the past decade affected labor markets?
 
 <br>
 <br>
-* **The Tribal Digital Divide: Extent and Explanations** <a href="https://www.minneapolisfed.org/research/cicd-working-paper-series/the-tribal-digital-divide-extent-and-explanations" target="_blank">*(CICD Working Paper)*</a>  <!---[[SSRN]](https://ssrn.com/abstract=3020332) -->
-	(with <a href="https://www.donnafeir.com/" target="_blank">Donna L. Feir</a> and <a href="https://sites.google.com/prod/view/mattgregg" target="_blank">Matthew T. Gregg)
-	
-	<details>
-  <summary><span class='icon-right'></span>Abstract </summary><p>
-We document systematic differences in connection speeds, prices for basic broadband service, and home internet access between American Indian Reservations and neighboring areas. Consistent with past studies, we find large raw tribal gaps in these broadband outcomes. Regression techniques and Oster (2019)'s method reveal that traditional cost factors, similar to those used in FCC's Connect American Cost Model, fully explain the price gap but explain only a fraction of the tribal gaps in access and connection speeds.  Income differences are strong predictors on internet access but do not affect the tribal gap in connectivity. We conclude with a discussion of the factors specific to Indian County that might drive the unexplained gap in access and connectivity.</p></details>
 
-<br>
-<br>
 * **Group Dynamics and Party Switching: Evidence from Argentina’s Roll Calls** <a href="/assets/Bauer_Group_dynamics_and_party_switching.pdf" target="_blank">*(pdf)*</a>   <!---[[SSRN]](https://ssrn.com/abstract=3020332) -->
 	
 	

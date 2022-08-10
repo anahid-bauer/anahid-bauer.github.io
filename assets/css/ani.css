@@ -21,21 +21,21 @@ h6 {
 }
 h2, h4{
   font-weight: 700;
-  color: #0693E3;
+  color: #00B8DE;
 }
 
 .a1 {
-  color: #9B51E0;
+  color: #831F82;
 }
 
 a{
-  color: #9B51E0;
+  color: #831F82;
 }
 
 
 .navbar{
-    background-color: #0693E3;
-    border-color: #0693E3;
+    background-color: #00B8DE;
+    border-color: #00B8DE;
 }
 
 
@@ -53,16 +53,16 @@ a{
 
 
 .navbar-color{
-    background-color: #0693E3;;
-    border-color: #9B51E0;
-    font-color: #9B51E0;
-    color: #9B51E0;
+    background-color: #00B8DE;;
+    border-color: #831F82;
+    font-color: #831F82;
+    color: #831F82;
 }
 
 .nav > li > a:hover,
 .nav > li > a:focus {
-  text-decoration: #9B51E0;
-  background-color: #9B51E0;
+  text-decoration: #831F82;
+  background-color: #831F82;
 }
 
 .navbar-inverse .navbar-brand {
@@ -78,7 +78,7 @@ a{
 
 
 .panel-default > .panel-heading {
-  background-color: #0693E3;
+  background-color: #00B8DE;
   color: #FFF;
 
 }
@@ -89,10 +89,10 @@ a{
 }
 
 .navbar .navbar-nav > li > a:hover {
-  color: #9B51E0;
+  color: #831F82;
 }
 
-.collapse, .navbar-collapse{ color: #9B51E0; }
+.collapse, .navbar-collapse{ color: #831F82; }
 
 .img-portfolio {
     margin-bottom: 30px;

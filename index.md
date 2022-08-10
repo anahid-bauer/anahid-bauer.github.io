@@ -3,7 +3,7 @@ layout: default
 ---
 
 
-I'm an Assistant Professor at the <a class="a1" href="https://www.imt-bs.eu/en/" target="_blank"> Law, Economics and Finance Department at Institut Mines-Telecom Business School.</a> 
+I'm an Assistant Professor at the <a class="a1" href="https://www.imt-bs.eu/en/" target="_blank"> Law, Economics and Finance Department at Institut Mines-Télécom Business School.</a> 
 
 <br>
 I'm an applied economist working on topics of Digital Economy. My primary interests are Labor Economics, Industrial Organization and Economics of Innovation. 
@@ -22,7 +22,7 @@ Contact Info:
 
 <i class="fa fa-home"></i>  Department of Law, Economics and Finance
 
-Institut Mines-Telecom Business School
+Institut Mines-Télécom Business School
 
 E309   - 9 rue Charles Fourier
 

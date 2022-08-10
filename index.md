@@ -13,17 +13,7 @@ I'm an applied economist working on topics of Digital Economy. My primary intere
 You can find my <a href="/assets/CV_Anahid_Bauer.pdf" target="_blank">CV here.</a> 
 <br>
 
-If you want to talk to me you can contact me <a href="mailto:anahid_bauer@imt-bs.eu">here</a> or 
-<!-- Calendly link widget begin -->
-<link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
-<script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript" async></script>
-<a href="" onclick="Calendly.initPopupWidget({url: 'https://calendly.com/anahid_bauer/officehours'});return false;">Schedule time with me</a>
-<!-- Calendly link widget end -->
-<!--set an appointment through my calendar:
-<!-- Calendly inline widget begin -->
-<!--div class="calendly-inline-widget" data-url="https://calendly.com/anahid_bauer/officehours?text_color=ac3ff8&primary_color=51def5" style="min-width:320px;height:630px;"></div>
-<script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js" async></script>
-<!-- Calendly inline widget end -->
+If you want to talk to me you can contact me <a href="mailto:anahid_bauer@imt-bs.eu">here</a> or <!-- Calendly link widget begin --> <link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet"> <script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript" async></script> <a href="" onclick="Calendly.initPopupWidget({url: 'https://calendly.com/anahid_bauer/officehours'});return false;">Schedule time with me</a> <!-- Calendly link widget end -->
 
 <br>
 <br>

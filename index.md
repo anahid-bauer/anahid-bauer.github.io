@@ -13,7 +13,11 @@ I'm an applied economist working on topics of Digital Economy. My primary intere
 You can find my <a href="/assets/CV_Anahid_Bauer.pdf" target="_blank">CV here.</a> 
 <br>
 
-If you want to talk to me you can contact me <a href="mailto:anahid_bauer@imt-bs.eu">here.</a>
+If you want to talk to me you can contact me <a href="mailto:anahid_bauer@imt-bs.eu">here</a> or set an appointment through my calendar:
+<!-- Calendly inline widget begin -->
+<div class="calendly-inline-widget" data-url="https://calendly.com/anahid_bauer/officehours?text_color=ac3ff8&primary_color=51def5" style="min-width:320px;height:630px;"></div>
+<script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js" async></script>
+<!-- Calendly inline widget end -->
 
 <br>
 <br>

@@ -18,12 +18,13 @@ We document systematic differences in connection speeds, prices for basic broadb
 
 
 
-* **Effects of E-commerce on Local Labor Markets** <a href="/assets/Bauer_JMP.pdf" target="_blank">*(Job Market Paper)*</a> <!--- [[SSRN]](https://ssrn.com/abstract=3020332) -->
-	
+* **Effects of E-commerce on Local Labor Markets** <a href="/assets/E-commerce_LLM.pdf" target="_blank">**</a> <!--- [[SSRN]](https://ssrn.com/abstract=3020332) -->
+	(with <a href="https://www.sofiafernandezguerrico.com/" target="_blank">Sofía Fernández Guerrico</a>
 	
 <!---	<details>
   <summary><span class='icon-right'></span> Abstract</summary><p>-->
-How has the expansion of e-commerce over the past decade affected labor markets?  Utilizing the variation of state legislation on e-commerce sales tax collection -the Amazon Tax- which reduced out-of-state e-commerce retailers' price advantage, I find declines in employment and wages in e-commerce complementary sectors, such as warehousing and last-mile transportation. In the retail sector, I observe declines in local employment and the number of establishments. Effects in retail are heterogeneous by sub-sector. While big box retail employment increases, other brick-and-mortar retail employment decreases. As the Amazon Tax may induce brick-and-mortar retailers to incorporate online channels, I analyze changes in retail occupational structure. In non-urban areas, I find an increase in the share of office and service occupations and a decrease in the share of sales and related occupations. Through a  general equilibrium model, I find that these results are consistent with an economy in which consumers substitute e-commerce purchases for big box purchases, which leads to the crowding out of other brick-and-mortar retail.
+This paper studies how the expansion of e-commerce over the past decade affected labor markets. Utilizing the variation of state legislation on e-commerce sales tax collection -the Amazon Tax- which
+reduced out-of-state e-commerce retailers’ price advantage, this paper finds declines in employment and wages in sectors complementary to e-commerce, such as warehousing and last-mile transportation. In the retail sector, there are observed declines in local employment and the number of establishments. Effects in retail are heterogeneous by sub-sector. While big box retail employment increases, other brick-and-mortar retail employment decreases. As the Amazon Tax may induce brick-and-mortar retailers to incorporate online channels, this paper analyzes changes in retail occupational structure. In non-urban areas, this paper finds an increase in the share of office and service occupations and a decrease in the share of sales and related occupations. Through a general equilibrium model, this paper finds that these results are consistent with an economy in which consumers substitute e-commerce purchases for big box purchases, which leads to the crowding out of other brick-and-mortar retail.
 <!--- </p></details>-->
 
 <br>

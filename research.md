@@ -18,7 +18,7 @@ We document systematic differences in connection speeds, prices for basic broadb
 
 
 
-* **Effects of E-commerce on Local Labor Markets** <a href="/assets/E-commerce_LLM.pdf" target="_blank">**</a> <!--- [[SSRN]](https://ssrn.com/abstract=3020332) -->
+* **Effects of E-commerce on Local Labor Markets** <a href="/assets/E-commerce_LLM.pdf" target="_blank">* <!--- [[SSRN]](https://ssrn.com/abstract=3020332) -->
 	(with <a href="https://www.sofiafernandezguerrico.com/" target="_blank">Sofía Fernández Guerrico</a>)*
 	
 <!---	<details>

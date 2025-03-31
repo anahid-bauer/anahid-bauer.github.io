@@ -24,7 +24,7 @@ Contact Info:
 
 Institut Mines-Télécom Business School
 
-E309   - 9 rue Charles Fourier
+E408   - 9 rue Charles Fourier
 
 91011 Évry Cedex, France
 

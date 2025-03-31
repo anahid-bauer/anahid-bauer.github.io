@@ -18,14 +18,30 @@ We document systematic differences in connection speeds, prices for basic broadb
 
 
 
-* **Effects of E-commerce on Local Labor Markets** <a href="/assets/E-commerce_LLM.pdf" target="_blank">*(pdf)*</a> <!--- [[SSRN]](https://ssrn.com/abstract=3020332) -->
+* **Effects of E-commerce on Local Labor Markets** <a href="/assets/E-commerce_LLM.pdf" target="_blank">*<!---(pdf) -->*</a>  [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4526271)
 	*(with <a href="https://www.sofiafernandezguerrico.com/" target="_blank">Sofía Fernández Guerrico</a>)*
 	
 <!---	<details>
-  <summary><span class='icon-right'></span> Abstract</summary><p>-->
+  <summary><span class='icon-right'></span> Abstract</summary><p>
 This paper studies how the expansion of e-commerce over the past decade affected labor markets. Utilizing the variation of state legislation on e-commerce sales tax collection -the Amazon Tax- which
 reduced out-of-state e-commerce retailers’ price advantage, this paper finds declines in employment and wages in sectors complementary to e-commerce, such as warehousing and last-mile transportation. In the retail sector, there are observed declines in local employment and the number of establishments. Effects in retail are heterogeneous by sub-sector. While big box retail employment increases, other brick-and-mortar retail employment decreases. As the Amazon Tax may induce brick-and-mortar retailers to incorporate online channels, this paper analyzes changes in retail occupational structure. In non-urban areas, this paper finds an increase in the share of office and service occupations and a decrease in the share of sales and related occupations. Through a general equilibrium model, this paper finds that these results are consistent with an economy in which consumers substitute e-commerce purchases for big box purchases, which leads to the crowding out of other brick-and-mortar retail.
-<!--- </p></details>-->
+ </p></details>-->
+
+<br>
+<br>
+
+
+* **The impact of recommender system changes on production and consumption of news in
+social media platforms: the case of Instagram** *([pdf](/assets/Instagram_recommendation_algorithm.pdf))* <!--- [[SSRN]](https://ssrn.com/abstract=3020332) -->
+*(with <a href="https://www.imt-bs.eu/en/teacher/soulie-nicolas/" target="_blank">Nicolas Soulie</a>)*
+
+
+<br>
+<br>
+
+* **Occupational Restructuring after the Great Recession** *([pdf](/assets/Occupational_Restructuring_after_the_Great_Recession.pdf))*  <!---[[SSRN]](https://ssrn.com/abstract=3020332) -->
+*(with <a href="https://elizaforsythe.web.illinois.edu/" target="_blank">Eliza Forsythe</a>)*
+
 
 <br>
 <br>
@@ -33,9 +49,10 @@ reduced out-of-state e-commerce retailers’ price advantage, this paper finds d
 * **Group Dynamics and Party Switching: Evidence from Argentina’s Roll Calls** <a href="/assets/Bauer_Group_dynamics_and_party_switching.pdf" target="_blank">*(pdf)*</a>   <!---[[SSRN]](https://ssrn.com/abstract=3020332) -->
 	
 	
-	<details>
+<!---	<details>
   <summary><span class='icon-right'></span>Abstract </summary><p>
-	Political parties are the nexus between voters and politicians. Legislative party switching not only distorts the representativeness of electoral results but also threatens the stability of the democratic system by obfuscating the electorate. In order to design policies that restore the representativeness of the political system, it is paramount to understand the determinants behind legislators’ behavior. Using a novel dynamic panel data set, constructed by collecting more than 420,000 votes from Argentina’s House of  Representatives, this paper studies party switching and group dynamics. This work estimates the relevance of individual and party characteristics as well as peers effects, power configuration and the possibility of remaining independent inside the Chamber as key features of legislator’s decision to switch. I find that party switching is an interdependent decision that relies more on same party peer effects than in different party peer effects. Ideological Distance, loyalty to party leaders, power of the party and the legislative cycle are important determinants of party switching. Moreover, increasing reputation costs of party switching is less effective at preventing it than promoting a transparent electoral process. By exploring the motives behind the switch, I find that party switchers have a higher probability of improving their ballot position compared to non switchers, suggesting that office seeking legislators have higher incentives to switch. Additionally, party switchers changed their voting behavior in the period close to their switching meeting, whereas non-switchers’ behavior was not affected by same party switches. Lastly I find that both office seeking and ideology seeking motivations affect the decision of a legislator to switch in their term.</p></details>
+	Political parties are the nexus between voters and politicians. Legislative party switching not only distorts the representativeness of electoral results but also threatens the stability of the democratic system by obfuscating the electorate. In order to design policies that restore the representativeness of the political system, it is paramount to understand the determinants behind legislators’ behavior. Using a novel dynamic panel data set, constructed by collecting more than 420,000 votes from Argentina’s House of  Representatives, this paper studies party switching and group dynamics. This work estimates the relevance of individual and party characteristics as well as peers effects, power configuration and the possibility of remaining independent inside the Chamber as key features of legislator’s decision to switch. I find that party switching is an interdependent decision that relies more on same party peer effects than in different party peer effects. Ideological Distance, loyalty to party leaders, power of the party and the legislative cycle are important determinants of party switching. Moreover, increasing reputation costs of party switching is less effective at preventing it than promoting a transparent electoral process. By exploring the motives behind the switch, I find that party switchers have a higher probability of improving their ballot position compared to non switchers, suggesting that office seeking legislators have higher incentives to switch. Additionally, party switchers changed their voting behavior in the period close to their switching meeting, whereas non-switchers’ behavior was not affected by same party switches. Lastly I find that both office seeking and ideology seeking motivations affect the decision of a legislator to switch in their term.</p></details> -->
+
 <br>
 
 
@@ -43,15 +60,16 @@ reduced out-of-state e-commerce retailers’ price advantage, this paper finds d
 ## Work in progress
 
 
+* **Occupational restructuring in Brazil** <!---*([pdf](/assets/proposal.pdf))* [[SSRN]](https://ssrn.com/abstract=3020332) -->
+*(with <a href="https://elizaforsythe.web.illinois.edu/" target="_blank">Eliza Forsythe</a> and <a href="https://www.iadb.org/es/recursos-de-conocimiento/investigacion-en-el-bid/investigadores/leticia-juarez" target="_blank">Leticia Juarez</a>)*
 
-* **Establishment’s Responsiveness to Shocks: the Case of the Great Recession** <!---*([pdf](/assets/proposal.pdf))*  [[SSRN]](https://ssrn.com/abstract=3020332) -->
-*(with <a href="https://elizaforsythe.web.illinois.edu/" target="_blank">Eliza Forsythe</a>)*
 	
-	
+* **Artificial Intelligence and firm organization** * <!---([pdf](/assets/Occupational_Restructuring_after_the_Great_Recession.pdf))* [[SSRN]](https://ssrn.com/abstract=3020332) -->
+*(with <a href="https://elizaforsythe.web.illinois.edu/" target="_blank">Eliza Forsythe</a>)*	
 
 
-* **Effects of broadband access on credit invisibility and financial access in Indian Country** <!---*([pdf](/assets/proposal.pdf))* [[SSRN]](https://ssrn.com/abstract=3020332) -->
-*(with <a href="https://www.donnafeir.com/" target="_blank">Donna L. Feir</a> and <a href="https://sites.google.com/prod/view/mattgregg" target="_blank">Matthew T. Gregg</a>)*
+* **Evaluating spend patterns** <!---*([pdf](/assets/proposal.pdf))* [[SSRN]](https://ssrn.com/abstract=3020332) -->
+*(with <a href="https://sites.google.com/prod/view/mattgregg" target="_blank">Matthew T. Gregg</a>)*
 	
 <!---	<details>
   <summary><span class='icon-right'></span>Abstract </summary><p>
@@ -59,7 +77,16 @@ reduced out-of-state e-commerce retailers’ price advantage, this paper finds d
 
 <br>
 <br>
-* **Understanding the search: Best practices for the use of Google Trends** <!---*([pdf](/assets/GTrends.pdf))*  [[SSRN]](https://ssrn.com/abstract=3020332) -->
+ <!---* **Understanding the search: Best practices for the use of Google Trends***([pdf](/assets/GTrends.pdf))*  [[SSRN]](https://ssrn.com/abstract=3020332) -->
+
+<br>
+
+
+<br>
+## Contributions to crowd-sourced research projects
+
+* **Reproducibility in Management Science***<a href="https://pubsonline.informs.org/doi/10.1287/mnsc.2023.03556" target="_blank">*(Management Science)*</a>(Member of the Management Science Reproducibility Collaboration,
+join with Fišar, M., Greiner, B., Huber, C., Katok, E., Ozkes, A.)*
 
 
 <br>

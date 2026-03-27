@@ -13,18 +13,18 @@ I'm an applied economist working on topics of Digital Economy. My primary intere
 You can find my <a href="/assets/CV_Anahid_Bauer.pdf" target="_blank">CV here.</a> 
 <br>
 
-If you want to talk to me you can contact me <a href="mailto:anahid.bauer@imt-bs.eu">here</a> or <!-- Calendly link widget begin --> <link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet"> <script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript" async></script> <a href="" onclick="Calendly.initPopupWidget({url: 'https://calendly.com/anahid_bauer/officehours'});return false;">schedule time with me</a> <!-- Calendly link widget end -->
+<!-- If you want to talk to me you can contact me <a href="mailto:anahid.bauer@imt-bs.eu">here</a> or  Calendly link widget begin  <link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet"> <script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript" async></script> <a href="" onclick="Calendly.initPopupWidget({url: 'https://calendly.com/anahid_bauer/officehours'});return false;">schedule time with me</a> Calendly link widget end -->
 
 <br>
 <br>
 <br>
 Contact Info:
 
-<i class="fa fa-home"></i>  Department of Law, Economics and Finance
+<i class="fa fa-home"></i>  Department of Data analytics, Economics and Finance
 
 Institut Mines-Télécom Business School
 
-E309   - 9 rue Charles Fourier
+E408   - 9 rue Charles Fourier
 
 91011 Évry Cedex, France
 

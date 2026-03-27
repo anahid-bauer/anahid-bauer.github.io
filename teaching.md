@@ -4,6 +4,17 @@ layout: secondary_pages
 
 ## Teaching
 
+#### Institut Mines Telecom Business School, France
+
+- **Introduction to Artificial Intelligence**, Master 2025
+- **Digital Economics**, Master 2024, 2025
+- **Methodology of Research**, Master 2024, 2025
+- **Economic Modeling** joint at Telecom Sud Paris, Master 2023, 2024, 2026
+- **Digital Strategies**, Master 2026
+- **New Business Models and Digital World Strategies**, Bachelor 2022, 2023, 2024
+- **Introduction to Statistics**, Master 2023
+- **Applied to Statistics**, Master 2024
+
 #### University of Illinois Urbana-Champaign, USA
 - **Head Teaching Assistant for Intermediate Microeconomics (Econ 302)**<br>
 	 Department of Economics, Spring and Fall 2019, Spring 2020 (online)<br>

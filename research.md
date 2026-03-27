@@ -16,8 +16,8 @@ We document systematic differences in connection speeds, prices for basic broadb
 
 ## Working Papers
 
-* **The impact of recommender system changes on production and consumption of news in
-social media platforms: the case of Instagram** *([pdf](/assets/Instagram_recommendation_algorithm.pdf))*  [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5846103) 
+* **The impact of recommender systems on production and consumption of news:
+the case of Instagram** *([pdf](/assets/Instagram_recommendation_algorithm.pdf))*  [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5846103) 
 *(with <a href="https://www.imt-bs.eu/en/teacher/soulie-nicolas/" target="_blank">Nicolas Soulie</a>)*
 
 

@@ -5,7 +5,7 @@ layout: secondary_pages
 ## Published Papers
 
 * **The Tribal Digital Divide: Extent and Explanations** <a href="https://authors.elsevier.com/c/1fGcl16AgYEnw9" target="_blank">*(Telecommunications Policy)*</a> <a href="https://www.minneapolisfed.org/research/cicd-working-paper-series/the-tribal-digital-divide-extent-and-explanations" target="_blank">*(CICD Working Paper version)*</a>  <!---[[SSRN]](https://ssrn.com/abstract=3020332) -->
-	(with <a href="https://www.donnafeir.com/" target="_blank">Donn. L. Feir</a> and <a href="https://sites.google.com/prod/view/mattgregg" target="_blank">Matthew T. Gregg</a>)*
+	(with <a href="https://www.donnafeir.com/" target="_blank">Donn. L. Feir</a> and <a href="https://sites.google.com/prod/view/mattgregg" target="_blank">Matthew T. Gregg</a>)
 	
 	<details>
   <summary><span class='icon-right'></span>Abstract </summary><p>
@@ -21,6 +21,7 @@ social media platforms: the case of Instagram** *([pdf](/assets/Instagram_recomm
 *(with <a href="https://www.imt-bs.eu/en/teacher/soulie-nicolas/" target="_blank">Nicolas Soulie</a>)*
 
 
+
 <br>
 <br>
 
@@ -29,6 +30,8 @@ social media platforms: the case of Instagram** *([pdf](/assets/Instagram_recomm
 
 <br>
 <br>	
+
+
 
 * **Effects of E-commerce on Local Labor Markets** <a href="/assets/E-commerce_LLM.pdf" target="_blank">*<!---(pdf) -->*</a>  [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4526271)
 	*(with <a href="https://www.sofiafernandezguerrico.com/" target="_blank">Sofía Fernández Guerrico</a>)*
@@ -66,7 +69,6 @@ reduced out-of-state e-commerce retailers’ price advantage, this paper finds d
 ## Work in progress
 
 
-
 * **Artificial Intelligence and firm organization** * <!---([pdf](/assets/Occupational_Restructuring_after_the_Great_Recession.pdf))* [[SSRN]](https://ssrn.com/abstract=3020332) -->
 *(with <a href="https://elizaforsythe.web.illinois.edu/" target="_blank">Eliza Forsythe</a>)*	
 
@@ -88,7 +90,8 @@ reduced out-of-state e-commerce retailers’ price advantage, this paper finds d
 <br>
 ## Contributions to crowd-sourced research projects
 
-* **Reproducibility in Management Science***<a href="https://pubsonline.informs.org/doi/10.1287/mnsc.2023.03556" target="_blank">*(Management Science)*</a>(Member of the Management Science Reproducibility Collaboration,
+
+* **Reproducibility in Management Science***<a href="https://pubsonline.informs.org/doi/10.1287/mnsc.2023.03556" target="_blank">(Management Science)</a>(Member of the Management Science Reproducibility Collaboration,
 join with Fišar, M., Greiner, B., Huber, C., Katok, E., Ozkes, A.)*
 
 

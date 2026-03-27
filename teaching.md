@@ -6,6 +6,7 @@ layout: secondary_pages
 
 #### Institut Mines Telecom Business School, France
 
+
 - **Introduction to Artificial Intelligence**, Master 2025
 - **Digital Economics**, Master 2024, 2025
 - **Methodology of Research**, Master 2024, 2025

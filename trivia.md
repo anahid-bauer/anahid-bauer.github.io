@@ -31,7 +31,7 @@ Here are some pictures of my collection<br> </div>
 
 
 #### I value taking care of my physical and emotional well-being
-- **I'm an active member at UAVE crossfit**<br>
+- **I'm an active member at Reformation Pilates Paris**<br>
  
 - **I practice <a href="https://www.positiveintelligence.com/" target="_blank">Positive Intelligence</a> and  <a href="https://www.headspace.com/meditation-101/what-is-meditation" target="_blank">Meditation.</a>**<br>
 <br>

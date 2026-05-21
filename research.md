@@ -25,7 +25,7 @@ the case of Instagram** *([pdf](/assets/Instagram_recommendation_algorithm.pdf))
 <br>
 <br>
 
-* **The Occupational Structure of Firms** *([pdf](/assets/Occupational_Structure_Firms_3_26_26.pdf))* <!---[[SSRN]](https://ssrn.com/abstract=3020332) -->
+* **The Occupational Structure of Firms** <!---*([pdf](/assets/Occupational_Structure_Firms_3_26_26.pdf))* [[SSRN]](https://ssrn.com/abstract=3020332) -->
 *(with <a href="https://elizaforsythe.web.illinois.edu/" target="_blank">Eliza Forsythe</a> and <a href="https://www.iadb.org/es/recursos-de-conocimiento/investigacion-en-el-bid/investigadores/leticia-juarez" target="_blank">Leticia Juarez</a>)*
 
 <br>

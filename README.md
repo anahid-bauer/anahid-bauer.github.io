@@ -1,5 +1,10 @@
 ## Anahid Bauer
 
-This is my personal website, powered by [Jekyll](http://jekyllrb.com/) and hosted by [GitHub Pages](https://pages.github.com/). It is available at [www.econ.illinois.edu/~anahid](http://anahid-bauer.github.io) or [anahid-bauer.github.io](http://anahid-bauer.github.io/).
+Personal academic website, built with [Jekyll](https://jekyllrb.com/) and hosted on [GitHub Pages](https://pages.github.com/) at [anahid-bauer.github.io](https://anahid-bauer.github.io/).
 
-The site is under MIT License
+- Pages: `index.md` (home), `research.md`, `teaching.md`, `resources.md`, `about.md`
+- Layouts: `_layouts/base.html` (header and navigation), `home.html`, `page.html`
+- Styles: `assets/css/site.css`
+- CV: replace `assets/CV_Anahid_Bauer.pdf` to update it
+
+The site is under MIT License.

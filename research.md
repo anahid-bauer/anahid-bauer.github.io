@@ -1,101 +1,78 @@
 ---
-layout: secondary_pages
+layout: page
+title: Research
+nav: research
 ---
 
-## Published Papers
+<h1>Research</h1>
 
-* **The Tribal Digital Divide: Extent and Explanations** <a href="https://authors.elsevier.com/c/1fGcl16AgYEnw9" target="_blank">*(Telecommunications Policy)*</a> <a href="https://www.minneapolisfed.org/research/cicd-working-paper-series/the-tribal-digital-divide-extent-and-explanations" target="_blank">*(CICD Working Paper version)*</a>  <!---[[SSRN]](https://ssrn.com/abstract=3020332) -->
-	(with <a href="https://www.donnafeir.com/" target="_blank">Donn. L. Feir</a> and <a href="https://sites.google.com/prod/view/mattgregg" target="_blank">Matthew T. Gregg</a>)
-	
-	<details>
-  <summary><span class='icon-right'></span>Abstract </summary><p>
-We document systematic differences in connection speeds, prices for basic broadband service, and home internet access between American Indian Reservations and neighboring areas. Consistent with past studies, we find large raw tribal gaps in these broadband outcomes. Regression techniques and Oster (2019)'s method reveal that traditional cost factors, similar to those used in FCC's Connect American Cost Model, fully explain the price gap but explain only a fraction of the tribal gaps in access and connection speeds.  Income differences are strong predictors on internet access but do not affect the tribal gap in connectivity. We conclude with a discussion of the factors specific to Indian County that might drive the unexplained gap in access and connectivity.</p></details>
+<h2>Published papers</h2>
 
-<br>
-<br>
+<div class="paper">
+  <span class="title">The Tribal Digital Divide: Extent and Explanations</span>
+  <span class="meta"><i>Telecommunications Policy</i>, 46(9), 2022 · with <a href="https://www.donnafeir.com/" target="_blank" rel="noopener">Donn. L. Feir</a> and <a href="https://sites.google.com/prod/view/mattgregg" target="_blank" rel="noopener">Matthew T. Gregg</a></span>
+  <span class="links-inline"><a href="https://doi.org/10.1016/j.telpol.2022.102401" target="_blank" rel="noopener">Journal</a><a href="https://www.minneapolisfed.org/research/cicd-working-paper-series/the-tribal-digital-divide-extent-and-explanations" target="_blank" rel="noopener">Working paper version</a></span>
+  <details><summary>Abstract</summary><p>We document systematic differences in connection speeds, prices for basic broadband service, and home internet access between American Indian Reservations and neighboring areas. Consistent with past studies, we find large raw tribal gaps in these broadband outcomes. Regression techniques and Oster (2019)'s method reveal that traditional cost factors, similar to those used in FCC's Connect American Cost Model, fully explain the price gap but explain only a fraction of the tribal gaps in access and connection speeds. Income differences are strong predictors on internet access but do not affect the tribal gap in connectivity. We conclude with a discussion of the factors specific to Indian County that might drive the unexplained gap in access and connectivity.</p></details>
+</div>
 
-## Working Papers
+<h2>Working papers</h2>
 
+<div class="paper">
+  <span class="title">Same Ads, Different Conclusions: Semantic Routing and the Measurement of Job Content</span>
+  <span class="meta">with Enas Farag, <a href="https://elizaforsythe.web.illinois.edu/" target="_blank" rel="noopener">Eliza Forsythe</a>, Noam Kramer, Junze Lin and Mohammad Sadeghi</span>
+  <span class="tag">Available upon request</span>
+</div>
 
+<div class="paper">
+  <span class="title">The Occupational Structure of Firms</span>
+  <span class="meta">with <a href="https://elizaforsythe.web.illinois.edu/" target="_blank" rel="noopener">Eliza Forsythe</a> and <a href="https://www.iadb.org/es/recursos-de-conocimiento/investigacion-en-el-bid/investigadores/leticia-juarez" target="_blank" rel="noopener">Leticia Juarez</a></span>
+  <span class="tag">Available upon request</span>
+</div>
 
-* **Effects of E-commerce on Local Labor Markets** <a href="/assets/E-commerce_LLM.pdf" target="_blank">*<!---(pdf) -->*</a>  [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4526271)
-	*(with <a href="https://www.sofiafernandezguerrico.com/" target="_blank">Sofía Fernández Guerrico</a>)*
-	
-<!---	<details>
-  <summary><span class='icon-right'></span> Abstract</summary><p>
-This paper studies how the expansion of e-commerce over the past decade affected labor markets. Utilizing the variation of state legislation on e-commerce sales tax collection -the Amazon Tax- which
-reduced out-of-state e-commerce retailers’ price advantage, this paper finds declines in employment and wages in sectors complementary to e-commerce, such as warehousing and last-mile transportation. In the retail sector, there are observed declines in local employment and the number of establishments. Effects in retail are heterogeneous by sub-sector. While big box retail employment increases, other brick-and-mortar retail employment decreases. As the Amazon Tax may induce brick-and-mortar retailers to incorporate online channels, this paper analyzes changes in retail occupational structure. In non-urban areas, this paper finds an increase in the share of office and service occupations and a decrease in the share of sales and related occupations. Through a general equilibrium model, this paper finds that these results are consistent with an economy in which consumers substitute e-commerce purchases for big box purchases, which leads to the crowding out of other brick-and-mortar retail.
- </p></details>-->
+<div class="paper">
+  <span class="title">The Impact of Recommender Systems on the Production and Consumption of News: The Case of Instagram</span>
+  <span class="meta">with <a href="https://www.imt-bs.eu/en/teacher/soulie-nicolas/" target="_blank" rel="noopener">Nicolas Soulié</a></span>
+  <span class="links-inline"><a href="/assets/Instagram_recommendation_algorithm.pdf" target="_blank" rel="noopener">PDF</a><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5846103" target="_blank" rel="noopener">SSRN</a></span>
+</div>
 
-<br>
-<br>
+<div class="paper">
+  <span class="title">Effects of E-commerce on Local Labor Markets</span>
+  <span class="meta">with <a href="https://www.sofiafernandezguerrico.com/" target="_blank" rel="noopener">Sofía Fernández Guerrico</a></span>
+  <span class="links-inline"><a href="https://www.iza.org/publications/dp/16345" target="_blank" rel="noopener">IZA DP</a><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4526271" target="_blank" rel="noopener">SSRN</a></span>
+</div>
 
+<div class="paper">
+  <span class="title">Occupational Restructuring after the Great Recession</span>
+  <span class="meta">with <a href="https://elizaforsythe.web.illinois.edu/" target="_blank" rel="noopener">Eliza Forsythe</a></span>
+  <span class="links-inline"><a href="/assets/Occupational_Restructuring_after_the_Great_Recession.pdf" target="_blank" rel="noopener">PDF</a></span>
+</div>
 
-* **The impact of recommender system changes on production and consumption of news in
-social media platforms: the case of Instagram** *([pdf](/assets/Instagram_recommendation_algorithm.pdf))* <!--- [[SSRN]](https://ssrn.com/abstract=3020332) -->
-*(with <a href="https://www.imt-bs.eu/en/teacher/soulie-nicolas/" target="_blank">Nicolas Soulie</a>)*
+<div class="paper">
+  <span class="title">Group Dynamics and Party Switching: Evidence from Argentina's Roll Calls</span>
+  <span class="links-inline"><a href="/assets/Bauer_Group_dynamics_and_party_switching.pdf" target="_blank" rel="noopener">PDF</a></span>
+</div>
 
+<h2>Work in progress</h2>
 
-<br>
-<br>
+<div class="paper">
+  <span class="title">How Representative Are Online Job Ads? Evidence from Web Data Commons Job Postings</span>
+  <span class="meta">with <a href="https://elizaforsythe.web.illinois.edu/" target="_blank" rel="noopener">Eliza Forsythe</a> and Mohammad Sadeghi</span>
+</div>
 
-* **Occupational Restructuring after the Great Recession** *([pdf](/assets/Occupational_Restructuring_after_the_Great_Recession.pdf))*  <!---[[SSRN]](https://ssrn.com/abstract=3020332) -->
-*(with <a href="https://elizaforsythe.web.illinois.edu/" target="_blank">Eliza Forsythe</a>)*
+<div class="paper">
+  <span class="title">Mapping Job-Ad Skills and Tasks to Occupational Taxonomies: An Evaluation of ESCO and O*NET</span>
+  <span class="meta">with <a href="https://elizaforsythe.web.illinois.edu/" target="_blank" rel="noopener">Eliza Forsythe</a>, Noam Kramer and Junze Lin</span>
+</div>
 
+<div class="paper">
+  <span class="title">Artificial Intelligence and Firm Organization</span>
+  <span class="meta">with <a href="https://elizaforsythe.web.illinois.edu/" target="_blank" rel="noopener">Eliza Forsythe</a></span>
+</div>
 
-<br>
-<br>
+<h2>Contributions to crowd-sourced research projects</h2>
 
-* **Group Dynamics and Party Switching: Evidence from Argentina’s Roll Calls** <a href="/assets/Bauer_Group_dynamics_and_party_switching.pdf" target="_blank">*(pdf)*</a>   <!---[[SSRN]](https://ssrn.com/abstract=3020332) -->
-	
-	
-<!---	<details>
-  <summary><span class='icon-right'></span>Abstract </summary><p>
-	Political parties are the nexus between voters and politicians. Legislative party switching not only distorts the representativeness of electoral results but also threatens the stability of the democratic system by obfuscating the electorate. In order to design policies that restore the representativeness of the political system, it is paramount to understand the determinants behind legislators’ behavior. Using a novel dynamic panel data set, constructed by collecting more than 420,000 votes from Argentina’s House of  Representatives, this paper studies party switching and group dynamics. This work estimates the relevance of individual and party characteristics as well as peers effects, power configuration and the possibility of remaining independent inside the Chamber as key features of legislator’s decision to switch. I find that party switching is an interdependent decision that relies more on same party peer effects than in different party peer effects. Ideological Distance, loyalty to party leaders, power of the party and the legislative cycle are important determinants of party switching. Moreover, increasing reputation costs of party switching is less effective at preventing it than promoting a transparent electoral process. By exploring the motives behind the switch, I find that party switchers have a higher probability of improving their ballot position compared to non switchers, suggesting that office seeking legislators have higher incentives to switch. Additionally, party switchers changed their voting behavior in the period close to their switching meeting, whereas non-switchers’ behavior was not affected by same party switches. Lastly I find that both office seeking and ideology seeking motivations affect the decision of a legislator to switch in their term.</p></details> -->
-
-<br>
-
-
-<br>
-## Work in progress
-
-
-* **Occupational restructuring in Brazil** <!---*([pdf](/assets/proposal.pdf))* [[SSRN]](https://ssrn.com/abstract=3020332) -->
-*(with <a href="https://elizaforsythe.web.illinois.edu/" target="_blank">Eliza Forsythe</a> and <a href="https://www.iadb.org/es/recursos-de-conocimiento/investigacion-en-el-bid/investigadores/leticia-juarez" target="_blank">Leticia Juarez</a>)*
-
-	
-* **Artificial Intelligence and firm organization**  <!---([pdf](/assets/Occupational_Restructuring_after_the_Great_Recession.pdf))* [[SSRN]](https://ssrn.com/abstract=3020332) -->
-*(with <a href="https://elizaforsythe.web.illinois.edu/" target="_blank">Eliza Forsythe</a>)*	
-
-
-* **Evaluating spend patterns** <!---*([pdf](/assets/proposal.pdf))* [[SSRN]](https://ssrn.com/abstract=3020332) -->
-*(with <a href="https://sites.google.com/prod/view/mattgregg" target="_blank">Matthew T. Gregg</a>)*
-	
-<!---	<details>
-  <summary><span class='icon-right'></span>Abstract </summary><p>
-	More than 10% of US adults do not have a credit record at one of the three nationwide credit reporting companies (Brevoort, et al 2015). They are considered “credit invisible”. Credit invisibility is more common among minority and rural populations who tend to be more financially vulnerable and may have less access to traditional forms of credit. There is evidence that access to high-speed broadband internet is associated with reduced credit invisibility (Brevoort, et al 2018). The purpose of this work is to evaluate the effects of broadband deployment on financial access and credit invisibility, with special focus on Indian Country. We leverage the roll-out of several programs to expand broadband provision among rural areas and tribal lands that were part of the American Recovery and Reinvestment Act of 2009, through several agencies (RUS, NTIA and FCC) to shed light on whether efforts to increase access to broadband also increase access to credit and engagement in financial markets.</p></details>-->
-
-<br>
-<br>
- <!---* **Understanding the search: Best practices for the use of Google Trends***([pdf](/assets/GTrends.pdf))*  [[SSRN]](https://ssrn.com/abstract=3020332) -->
-
-<br>
-
-
-<br>
-## Contributions to crowd-sourced research projects
-
-* **Reproducibility in Management Science***<a href="https://pubsonline.informs.org/doi/10.1287/mnsc.2023.03556" target="_blank">(Management Science)</a>(Member of the Management Science Reproducibility Collaboration,
-join with Fišar, M., Greiner, B., Huber, C., Katok, E., Ozkes, A.)*
-
-
-<br>
-
-
-
-<br>
-
-<!---## Other Publications
-
-* **Municipal solid waste managment* Available [here](http://www.cepal.org/es/publicaciones/40271-la-matriz-insumo-producto-america-sur-principales-supuestos-consideraciones) (In Spanish). [Media](http://www.cepal.org/es/notas/la-cepal-ipea-publican-la-matriz-insumo-producto-america-sur)  -->
-
+<div class="paper">
+  <span class="title">Reproducibility in Management Science</span>
+  <span class="meta"><i>Management Science</i> · Member of the Management Science Reproducibility Collaboration, with M. Fišar, B. Greiner, C. Huber, E. Katok and A. Ozkes</span>
+  <span class="links-inline"><a href="https://pubsonline.informs.org/doi/10.1287/mnsc.2023.03556" target="_blank" rel="noopener">Journal</a></span>
+</div>

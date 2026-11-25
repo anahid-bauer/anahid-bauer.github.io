@@ -38,7 +38,7 @@ nav: research
 <div class="paper">
   <span class="title">Effects of E-commerce on Local Labor Markets</span>
   <span class="meta">with <a href="https://www.sofiafernandezguerrico.com/" target="_blank" rel="noopener">Sofía Fernández Guerrico</a></span>
-  <span class="links-inline"><a href="https://www.iza.org/publications/dp/16345" target="_blank" rel="noopener">IZA DP</a><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4526271" target="_blank" rel="noopener">SSRN</a></span>
+  <span class="links-inline"><a href="https://docs.iza.org/dp16345.pdf" target="_blank" rel="noopener">IZA DP</a><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4526271" target="_blank" rel="noopener">SSRN</a></span>
 </div>
 
 <div class="paper">
